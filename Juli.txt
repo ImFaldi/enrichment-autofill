@@ -21,7 +21,7 @@
 2024-07-24|09:30 am|05:00 pm|Improvement Based on Feedback|Melakukan perbaikan berdasarkan feedback yang diterima.
 2024-07-25|09:30 am|05:00 pm|Testing Ulang dan Finalization|Melakukan testing ulang setelah perbaikan dan menyiapkan final handover.
 2024-07-26|09:30 am|05:00 pm|Handover ke Klien|Melakukan handover project secara resmi ke klien.
-2024-07-27|09:30 am|05:00 pm|Documentasi dan Arsip|Menyusun dokumentasi akhir dan mengarsipkan semua file project.
+2024-07-27|09:30 am|05:00 pm|Documentasi dan Arsip|Menyusun dokumentasi akhir dan mengarsipkan semua file project link landing page : https://www.lifechanger.me/flimty.
 2024-07-29|09:30 am|05:00 pm|Evaluasi Akhir Proyek|Diskusi evaluasi proyek bersama tim untuk pelajaran ke depan.
 2024-07-30|09:30 am|05:00 pm|Planning Proyek Berikutnya|Mulai merencanakan proyek berikutnya dengan klien dan tim.
 2024-07-31|09:30 am|05:00 pm|Wrap-up dan Handover Internal|Mengakhiri semua tugas internal dan menyerahkan laporan akhir kepada manajemen.
