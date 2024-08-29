@@ -1,25 +1,18 @@
-2024-06-01|09:30 am|05:00 pm|Kickoff Meeting dengan Tim|Diskusi awal mengenai tujuan dan kebutuhan pembuatan landing page "Hotto Purto" dengan tim dan klien.
-2024-06-03|09:30 am|05:00 pm|Research dan Planning|Melakukan research tentang desain dan konten yang sesuai untuk landing page "Hotto Purto." Membuat wireframe awal.
-2024-06-04|09:30 am|05:00 pm|Finalisasi Wireframe|Finalisasi wireframe berdasarkan feedback dari klien dan tim. Persiapan untuk desain mockup.
-2024-06-05|09:30 am|05:00 pm|Pembuatan Desain Mockup|Mulai membuat desain mockup untuk landing page "Hotto Purto."
-2024-06-06|09:30 am|05:00 pm|Review Mockup dengan Klien|Presentasi mockup kepada klien untuk mendapatkan feedback.
-2024-06-07|09:30 am|05:00 pm|Revisi Mockup|Melakukan revisi desain mockup berdasarkan feedback dari klien.
-2024-06-08|09:30 am|05:00 pm|Persiapan Pembuatan Frontend|Mulai mempersiapkan environment untuk pengembangan frontend landing page.
-2024-06-10|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Header|Mulai mengerjakan bagian header untuk landing page "Hotto Purto."
-2024-06-11|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Hero Section|Melanjutkan pengembangan untuk hero section di landing page.
-2024-06-12|09:30 am|05:00 pm|Review dengan Tim|Review hasil pengembangan frontend dengan tim untuk memastikan kesesuaian dengan desain.
-2024-06-13|09:30 am|05:00 pm|Revisi Frontend|Melakukan revisi pada bagian frontend sesuai dengan masukan dari review tim.
-2024-06-14|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Konten|Mengembangkan bagian konten utama untuk landing page "Hotto Purto."
-2024-06-15|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Testimonial|Mulai mengerjakan bagian testimonial di landing page.
-2024-06-17|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Footer|Mengembangkan bagian footer dan menyelesaikan struktur dasar landing page.
-2024-06-18|09:30 am|05:00 pm|Integrasi API dan Testing|Mulai mengintegrasikan API yang diperlukan dan melakukan testing fungsionalitas.
-2024-06-19|09:30 am|05:00 pm|Bug Fixing dan Optimization|Melakukan perbaikan bug dan optimasi performa landing page.
-2024-06-20|09:30 am|05:00 pm|Review dengan Klien|Menunjukkan hasil akhir landing page kepada klien untuk mendapatkan persetujuan final.
-2024-06-21|09:30 am|05:00 pm|Finalisasi dan Deploy|Menyelesaikan semua persiapan untuk deployment dan melakukan deploy landing page "Hotto Purto."
-2024-06-22|09:30 am|05:00 pm|Monitoring Post-Deployment|Memantau performa landing page setelah deployment untuk memastikan tidak ada masalah.
-2024-06-24|09:30 am|05:00 pm|Feedback Gathering|Mengumpulkan feedback dari klien dan pengguna awal.
-2024-06-25|09:30 am|05:00 pm|Improvement Based on Feedback|Melakukan perbaikan berdasarkan feedback yang diterima.
-2024-06-26|09:30 am|05:00 pm|Testing Ulang dan Finalization|Melakukan testing ulang setelah perbaikan dan menyiapkan final handover.
-2024-06-27|09:30 am|05:00 pm|Handover ke Klien|Melakukan handover project secara resmi ke klien.
-2024-06-28|09:30 am|05:00 pm|Documentasi dan Arsip|Menyusun dokumentasi akhir dan mengarsipkan semua file project link landing page: https://www.lifechanger.me/hotto-purto.
-2024-06-29|09:30 am|05:00 pm|Evaluasi Akhir Proyek|Diskusi evaluasi proyek bersama tim untuk pelajaran ke depan.
+2024-06-05|08:00 am|08:00 pm|Konten promosi|Merencanakan konten untuk kampanye media sosial
+2024-06-06|08:00 am|08:00 pm|Strategi promo|Menyusun strategi kampanye diskon Hari Raya
+2024-06-07|08:00 am|08:00 pm|Evaluasi kampanye|Mengevaluasi efektivitas kampanye promosi minggu pertama
+2024-06-10|08:00 am|08:00 pm|Riset pelanggan|Mengumpulkan data dan feedback pelanggan
+2024-06-11|08:00 am|08:00 pm|Meeting konten|Brainstorming ide konten kreatif untuk sosial media
+2024-06-12|08:00 am|08:00 pm|Analisis data|Menganalisis hasil kampanye iklan
+2024-06-13|08:00 am|08:00 pm|Kolaborasi|Mengatur kerjasama dengan influencer lokal
+2024-06-14|08:00 am|08:00 pm|Konten video|Mengedit video untuk promosi di YouTube dan Instagram
+2024-06-17|08:00 am|08:00 pm|Evaluasi tim|Memberikan feedback pada tim marketing
+2024-06-18|08:00 am|08:00 pm|Strategi SEO|Optimasi konten website untuk meningkatkan traffic
+2024-06-19|08:00 am|08:00 pm|Kolaborasi|Merencanakan kolaborasi dengan brand lain
+2024-06-20|08:00 am|08:00 pm|Strategi media sosial|Menyusun kalender konten sosial media
+2024-06-21|08:00 am|08:00 pm|Konten blog|Menulis artikel tentang tips perawatan sepatu
+2024-06-24|08:00 am|08:00 pm|Riset pasar|Melakukan survei untuk memahami kebutuhan pelanggan
+2024-06-25|08:00 am|08:00 pm|Evaluasi bulanan|Review performa bulanan tim marketing
+2024-06-26|08:00 am|08:00 pm|Strategi promo|Menyusun rencana promosi bulanan
+2024-06-27|08:00 am|08:00 pm|Evaluasi kampanye|Analisis ROI dari kampanye bulan Juni
+2024-06-28|08:00 am|08:00 pm|Rencana ekspansi|Merancang strategi ekspansi layanan ke kota lain
