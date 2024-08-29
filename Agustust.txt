@@ -1,0 +1,27 @@
+2024-08-01|09:30 am|05:00 pm|Kickoff Meeting dengan Tim|Diskusi awal mengenai tujuan dan kebutuhan pembuatan landing page e-commerce Life Changer yang menghubungkan semua produk seperti Flimty, Hotto, dll.
+2024-08-02|09:30 am|05:00 pm|Research dan Planning|Melakukan research tentang desain dan fitur e-commerce yang sesuai untuk landing page Life Changer. Membuat wireframe awal.
+2024-08-03|09:30 am|05:00 pm|Finalisasi Wireframe|Finalisasi wireframe berdasarkan feedback dari klien dan tim. Persiapan untuk desain mockup.
+2024-08-05|09:30 am|05:00 pm|Pembuatan Desain Mockup|Mulai membuat desain mockup untuk landing page e-commerce Life Changer.
+2024-08-06|09:30 am|05:00 pm|Review Mockup dengan Klien|Presentasi mockup kepada klien untuk mendapatkan feedback.
+2024-08-07|09:30 am|05:00 pm|Revisi Mockup|Melakukan revisi desain mockup berdasarkan feedback dari klien.
+2024-08-08|09:30 am|05:00 pm|Persiapan Pembuatan Frontend|Mulai mempersiapkan environment untuk pengembangan frontend landing page e-commerce.
+2024-08-09|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Header dan Navigation|Mulai mengerjakan bagian header dan navigation yang akan menghubungkan semua produk di landing page Life Changer.
+2024-08-10|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Hero Section dan Produk Unggulan|Mengembangkan bagian hero section serta menampilkan produk unggulan seperti Flimty dan Hotto.
+2024-08-12|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Kategori Produk|Melanjutkan pengembangan untuk kategori produk yang menghubungkan semua produk Life Changer.
+2024-08-13|09:30 am|05:00 pm|Review dengan Tim|Review hasil pengembangan frontend dengan tim untuk memastikan kesesuaian dengan desain dan fungsionalitas e-commerce.
+2024-08-14|09:30 am|05:00 pm|Revisi Frontend|Melakukan revisi pada bagian frontend sesuai dengan masukan dari review tim.
+2024-08-15|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Testimonial dan Review Produk|Mulai mengerjakan bagian testimonial dan review produk dari pelanggan.
+2024-08-16|09:30 am|05:00 pm|Pembuatan Frontend - Bagian Footer dan Call-to-Action|Mengembangkan bagian footer dan menyelesaikan call-to-action untuk meningkatkan konversi.
+2024-08-17|09:30 am|05:00 pm|Integrasi API Produk dan Payment Gateway|Mulai mengintegrasikan API produk dan payment gateway untuk fungsionalitas e-commerce.
+2024-08-19|09:30 am|05:00 pm|Bug Fixing dan Optimization|Melakukan perbaikan bug dan optimasi performa landing page e-commerce.
+2024-08-20|09:30 am|05:00 pm|Review dengan Klien|Menunjukkan hasil akhir landing page e-commerce kepada klien untuk mendapatkan persetujuan final.
+2024-08-21|09:30 am|05:00 pm|Finalisasi dan Deploy|Menyelesaikan semua persiapan untuk deployment dan melakukan deploy landing page e-commerce Life Changer. Landing page dapat diakses di https://lifechanger.me.
+2024-08-22|09:30 am|05:00 pm|Monitoring Post-Deployment|Memantau performa landing page setelah deployment untuk memastikan tidak ada masalah.
+2024-08-23|09:30 am|05:00 pm|Feedback Gathering|Mengumpulkan feedback dari klien dan pengguna awal.
+2024-08-24|09:30 am|05:00 pm|Improvement Based on Feedback|Melakukan perbaikan berdasarkan feedback yang diterima.
+2024-08-26|09:30 am|05:00 pm|Testing Ulang dan Finalization|Melakukan testing ulang setelah perbaikan dan menyiapkan final handover.
+2024-08-27|09:30 am|05:00 pm|Handover ke Klien|Melakukan handover project secara resmi ke klien.
+2024-08-28|09:30 am|05:00 pm|Documentasi dan Arsip|Menyusun dokumentasi akhir dan mengarsipkan semua file project.
+2024-08-29|09:30 am|05:00 pm|Evaluasi Akhir Proyek|Diskusi evaluasi proyek bersama tim untuk pelajaran ke depan.
+2024-08-30|09:30 am|05:00 pm|Planning Proyek Berikutnya|Mulai merencanakan proyek berikutnya dengan klien dan tim.
+2024-08-31|09:30 am|05:00 pm|Penyusunan Strategi Pemasaran untuk E-commerce|Merencanakan strategi pemasaran dan optimasi SEO untuk landing page e-commerce yang baru diluncurkan.
